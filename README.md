@@ -23,13 +23,20 @@ I'm a survivor of the Icy River of Børselv, my family name on my mothers side i
 
 ### Portfolio
 
+### Portfolio
+
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/lordaake/Gamehub-website): My first website ever. A website that should resemble a shop.
-- [Project 2](https://github.com/lordaake/Semester-Project-Finished): Community Science Museum. My second website ever. It should resemble a science museum website.
-- [Project 3](https://github.com/Noroff-FEU-Assignments/project-exam-1-lordaake): Mango Quest. My third website ever. A blog about a group of adventureres who travel the world in search of mangoes.
+- [Project 1 (GitHub Repository)](https://github.com/lordaake/Gamehub-website): My first website ever. A website that should resemble a shop. 
+  - [Live Demo](https://gamehub-87.netlify.app/)
 
-Feel free to explore my repositories and don't hesitate to connect with me. I'm always eager to collaborate on new and exciting projects.
+- [Project 2 (GitHub Repository)](https://github.com/lordaake/Semester-Project-Finished): Community Science Museum. My second website ever. It should resemble a science museum website.
+  - [Live Demo](https://community-museum87.netlify.app/)
+
+- [Project 3 (GitHub Repository)](https://github.com/Noroff-FEU-Assignments/project-exam-1-lordaake): Mango Quest. My third website ever. A blog about a group of adventurers who travel the world in search of mangoes.
+  - [Live Demo](https://mango-quest.netlify.app/)
+
+Feel free to explore my repositories and test the live demos to get a closer look at the projects. Don't hesitate to connect with me. I'm always eager to collaborate on new and exciting projects.
 
 ## Get in Touch
 
