@@ -33,7 +33,7 @@ Feel free to explore my repositories and don't hesitate to connect with me. I'm 
 
 ## Get in Touch
 
-- LinkedIn: [Tord Åke Larsson](https://www.linkedin.com/in/tord-ake-larsson)
+- LinkedIn: [Tord Åke Larsson](https://www.linkedin.com/in/tord-%C3%A5ke-larsson-6b35b958/)
 - Email: tordakelarsson@pm.me
 
 Thank you for visiting my GitHub profile! ✨
