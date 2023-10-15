@@ -27,7 +27,7 @@ I'm a survivor of the Icy River of Børselv, my family name on my mothers side i
 
 Here are some of the projects I've worked on:
 
-- [Project 1 (GitHub Repository)](https://github.com/lordaake/Gamehub-website): My first website ever. A website that should resemble a shop. 
+- [Project 1 (GitHub Repository)](https://github.com/lordaake/Gamehub-website): My first website ever. Gamehub. A website that should resemble a shop for Playbox games.
   - [Live Demo](https://gamehub-87.netlify.app/)
 
 - [Project 2 (GitHub Repository)](https://github.com/lordaake/Semester-Project-Finished): Community Science Museum. My second website ever. It should resemble a science museum website.
