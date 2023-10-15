@@ -10,7 +10,13 @@ Welcome to my GitHub profile! I'm Tord Åke Larsson, a front-end developer from 
 
 ### Background
 
-I'm a survivor of the Icy River of Børselv, my family name on my mothers side is Balto, like the sled dog Balto. This unique perspective drives my passion for crafting digital realms that captivate and inspire.
+Hailing from the northern enclave of Karasjok, my professional journey has been as diverse as the Arctic landscape. I've worn many hats over the years, from roles in television and journalism to teaching and working with languages. Each experience has contributed to my unique perspective and skill set.
+
+My pursuit of a deeper understanding of the digital realm led me to embark on a journey of self-discovery and transformation. With a Bachelor's degree in Multimedia Technology in hand, I set my sights on the field of web development. It was a natural progression for someone who had always harbored a fascination for coding.
+
+Now, as I near the completion of a two-year program at Noroff, my passion for frontend development is unwavering. I thrive in crafting captivating digital experiences that seamlessly blend aesthetics and functionality.
+
+I look forward to sharing my projects, knowledge, and experiences with you. Welcome to my world of digital innovation.
 
 ### Technical Skills
 
