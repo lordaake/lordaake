@@ -29,8 +29,6 @@ I look forward to sharing my projects, knowledge, and experiences with you. Welc
 
 ### Portfolio
 
-### Portfolio
-
 Here are some of the projects I've worked on:
 
 - [Project 1 (GitHub Repository)](https://github.com/lordaake/Gamehub-website): My first website ever. Gamehub. A website that should resemble a shop for Playbox games.
