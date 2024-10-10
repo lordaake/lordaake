@@ -1,50 +1,60 @@
 ![Profile Picture](https://portofolio1-tordlarsson.netlify.app/images/profile_image.jpg)
 
-# Tord Åke Larsson
+## Hi, I'm Tord Åke Larsson! 👋
 
-## Frontend Developer | Arctic Front-End Artisan
+I'm a **frontend developer** with a passion for building dynamic, responsive, and user-friendly web applications. With a strong foundation in JavaScript and modern frameworks, I enjoy crafting smooth user experiences. I'm constantly learning and growing as a developer, always eager to dive into new challenges.
 
-> "As the northern lights dance in the skies, so should your user experience be on the web."
+---
 
-Welcome to my GitHub profile! I'm Tord Åke Larsson, a front-end developer from a small town in the far north. Drawing inspiration from the remote icy enclave and the serene beauty of the Northern lights, I strive to create web experiences that seamlessly blend elegance and innovation.
+### 🛠 Tech Stack
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React, Tailwind CSS
+- **Tools**: Vite, Git, Netlify, Figma
+- **Database**: Firebase
 
-### Background
+---
 
-Hailing from the northern enclave of Karasjok, my professional journey has been as diverse as the Arctic landscape. I've worn many hats over the years, from roles in television and journalism to teaching and working with languages. Each experience has contributed to my unique perspective and skill set.
+### 💼 Projects
 
-My pursuit of a deeper understanding of the digital realm led me to embark on a journey of self-discovery and transformation. With a Bachelor's degree in Multimedia Technology in hand, I set my sights on the field of web development. It was a natural progression for someone who had always harbored a fascination for coding.
+Here are a few highlights from my portfolio:
 
-Now, as I near the completion of a two-year program at Noroff, my passion for frontend development is unwavering. I thrive in crafting captivating digital experiences that seamlessly blend aesthetics and functionality.
+#### 1. [Holidaze - Project Exam 2](https://holidaze-lordaake-pe.netlify.app/)
+A hotel booking website where users can search for venues, book rooms, and manage their bookings.
 
-I look forward to sharing my projects, knowledge, and experiences with you. Welcome to my world of digital innovation.
+- **Features**:
+  - Venue listing and search functionality
+  - User authentication for bookings
+  - Admin panel for venue management
+- **Tech Stack**: React, Tailwind CSS, Firebase
+- [GitHub Repository](https://github.com/lordaake/holidaze)
 
-### Technical Skills
+#### 2. [E-commerce Store - JavaScript Frameworks CA](https://lord-ecom-store.netlify.app/)
+An e-commerce platform built using JavaScript frameworks, allowing users to browse and purchase products.
 
-- **JavaScript**
-- **CSS**
-- **User Experience (UX) Design**
-- **WordPress**
-- **Visual Studio Code**
-- **HTML**
+- **Features**:
+  - Product browsing and filtering
+  - Shopping cart with order management
+  - Secure checkout process
+- **Tech Stack**: React, Tailwind CSS, Firebase
+- [GitHub Repository](https://github.com/lordaake/ecommerce-store)
 
-### Portfolio
+#### 3. [Auction House - Semester Project 2](https://auction-house-sp2.netlify.app/)
+An auction website where users can bid on items and post their own listings for others to bid on.
 
-Here are some of the projects I've worked on:
+- **Features**:
+  - Real-time bidding system
+  - User authentication for posting and bidding on items
+  - Responsive and intuitive UI
+- **Tech Stack**: React, Tailwind CSS, Firebase
+- [GitHub Repository](https://github.com/lordaake/auction-house)
 
-- [Project 1 (GitHub Repository)](https://github.com/lordaake/Gamehub-website): My first website ever. Gamehub. A website that should resemble a shop for Playbox games.
-  - [Live Demo](https://gamehub-87.netlify.app/)
+---
 
-- [Project 2 (GitHub Repository)](https://github.com/lordaake/Semester-Project-Finished): Community Science Museum. My second website ever. It should resemble a science museum website.
-  - [Live Demo](https://community-museum87.netlify.app/)
- 
-- [Project 3 (GitHub Repository)](https://github.com/lordaake/Mango-Quest): Mango Quest. My third website ever. A blog about a group of adventurers who travel the world in search of mangoes.
-  - [Live Demo](https://mango-quest.netlify.app/)
+### 🌱 Current Learning Goals
+I'm currently expanding my knowledge in **TypeScript** and **Next.js** to improve scalability and performance in my web applications. 
 
-Feel free to explore my repositories and test the live demos to get a closer look at the projects. Don't hesitate to connect with me. I'm always eager to collaborate on new and exciting projects.
+---
 
-## Get in Touch
-
+### 📫 How to Reach Me
 - LinkedIn: [Tord Åke Larsson](https://www.linkedin.com/in/tord-%C3%A5ke-larsson-6b35b958/)
 - Email: tordakelarsson@pm.me
-
-Thank you for visiting my GitHub profile! ✨
